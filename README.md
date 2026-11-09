@@ -1,2 +1,2 @@
 # dsh-superagent-demo
-DeepSeek Super-Agent trial repository
+DeepSeek Super-Agent test repository
